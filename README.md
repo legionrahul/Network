@@ -48,7 +48,7 @@ github.com
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/winsock-tcp-server.git
+git clone https://github.com/legionrahul/Network.git
 cd winsock-tcp-server
 2. Compile the Code
 Use your preferred C++ compiler to compile the source code. For example, with MSVC:
