@@ -16,19 +16,7 @@ Receives data from the client.
 
 Sends a confirmation message back to the client.
 
-Cleans up and releases resources.
-youtube.com
-+7
-reddit.com
-+7
-github.com
-+7
-wired.com
-+3
-reddit.com
-+3
-reddit.com
-+3
+
 
 🛠️ Prerequisites
 Windows operating system.
